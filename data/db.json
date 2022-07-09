@@ -1,0 +1,9 @@
+{
+  "products": [
+    {
+      "title": "hey bruh",
+      "image": "https://picsum.photos/seed/picsum/200/300",
+      "id": 1
+    }
+  ]
+}
